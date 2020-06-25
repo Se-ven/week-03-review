@@ -1,0 +1,24 @@
+{
+  "name": "week-03-review",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./tests/.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Se-ven/week-03-review.git"
+  },
+  "keywords": [],
+  "author": "Lavery",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Se-ven/week-03-review/issues"
+  },
+  "homepage": "https://github.com/Se-ven/week-03-review#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
